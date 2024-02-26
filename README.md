@@ -1,3 +1,4 @@
+![logo](https://github.com/shub1704/shub1704/blob/main/logo.PNG)
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex-grow: 1;">
     <h1 align="center">Shubham Thakare</h1>
